@@ -35,8 +35,12 @@ npm install
 cp .env-sample .env
 ```
 
+**4. Install dotenv**
+```
+npm install dotenv --save
+```
 
-**4. Run the script**
+**5. Run the script**
 
 ```
 npm run solution
